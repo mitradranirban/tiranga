@@ -1,0 +1,60 @@
+{
+"unitsPerEm": 2048,
+"fontInfo": {
+"familyName": "Tiranga",
+"versionMajor": 0,
+"versionMinor": 100,
+"copyright": "2025 Dr Anirban Mitra",
+"description": "Color V1 Font with tricolor of India ",
+"designer": "Dr Anirban Mitra",
+"designerURL": "https://github.com/mitradranirban",
+"manufacturer": "Dr Anirban Mitra",
+"manufacturerURL": "https://fonts.atipra.in",
+"licenseDescription": "This font is licensed under Open Font Licence Version 1.1",
+"licenseInfoURL": "https://openfontlicense.org",
+"vendorID": "anir"
+},
+"sources": {
+"f259700f": {
+"name": "Regular",
+"lineMetricsHorizontalLayout": {
+"ascender": {
+"value": 1638,
+"zone": 16
+},
+"descender": {
+"value": -410,
+"zone": -16
+},
+"xHeight": {
+"value": 1024,
+"zone": 16
+},
+"capHeight": {
+"value": 1434,
+"zone": 16
+},
+"baseline": {
+"value": 0,
+"zone": -16
+}
+},
+"customData": {
+"openTypeHheaAscender": 2210,
+"openTypeHheaDescender": -514,
+"openTypeHheaLineGap": 0,
+"openTypeOS2TypoAscender": 2210
+}
+}
+},
+"customData": {
+"fontra.projectGlyphSets": [
+{
+"commentChars": "#",
+"dataFormat": "glyph-names",
+"name": "GF Latin Kernel",
+"url": "https://raw.githubusercontent.com/googlefonts/glyphsets/main/data/results/txt/nice-names/GF_Latin_Kernel.txt"
+}
+]
+}
+}
