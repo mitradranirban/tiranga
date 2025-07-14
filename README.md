@@ -1,10 +1,9 @@
-# Touch&Tell Variable Colour Font
+# Tiranga Colour Font
 ---
-Part of Tiny Fun Fonts 3
 
-It can be used as a flash card to teach Childred English Alphabet.
+Part of Tiny Fun Fonts
+
+Tiranga is Tricolor of India.
 ## Preview
 
 ## Download
-Download [Touch&Tell](fonts/variable_ttf/touch&.ttf)
-

@@ -12,9 +12,62 @@
 "manufacturerURL": "https://fonts.atipra.in",
 "licenseDescription": "This font is licensed under Open Font Licence Version 1.1",
 "licenseInfoURL": "https://openfontlicense.org",
-"vendorID": "anir"
+"vendorID": "anir",
+"customData": {
+"openTypeOS2Selection": [
+7
+]
+}
+},
+"axes": {
+"axes": [
+{
+"name": "FLAG",
+"label": "Flag",
+"tag": "FLAG",
+"minValue": 0,
+"defaultValue": 0,
+"maxValue": 100
+}
+]
 },
 "sources": {
+"e1f9abc4": {
+"name": "Flag",
+"location": {
+"FLAG": 100
+},
+"lineMetricsHorizontalLayout": {
+"ascender": {
+"value": 1638,
+"zone": 16
+},
+"descender": {
+"value": -410,
+"zone": -16
+},
+"xHeight": {
+"value": 1024,
+"zone": 16
+},
+"capHeight": {
+"value": 1434,
+"zone": 16
+},
+"baseline": {
+"value": 0,
+"zone": -16
+}
+},
+"customData": {
+"openTypeHheaAscender": 2210,
+"openTypeHheaDescender": -514,
+"openTypeHheaLineGap": 0,
+"openTypeOS2TypoAscender": 2210,
+"openTypeOS2TypoDescender": -514,
+"openTypeOS2TypoLineGap": 0
+}
+},
 "f259700f": {
 "name": "Regular",
 "lineMetricsHorizontalLayout": {
@@ -43,7 +96,9 @@
 "openTypeHheaAscender": 2210,
 "openTypeHheaDescender": -514,
 "openTypeHheaLineGap": 0,
-"openTypeOS2TypoAscender": 2210
+"openTypeOS2TypoAscender": 2210,
+"openTypeOS2TypoDescender": -514,
+"openTypeOS2TypoLineGap": 0
 }
 }
 },
